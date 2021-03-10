@@ -1,6 +1,6 @@
 """Module containing models representing patients and their data.
 
-The Model layer is responsible for the 'business logic' part of the software. 
+The Model layer is responsible for the 'business logic' part of the software.
 """
 
 import numpy as np
